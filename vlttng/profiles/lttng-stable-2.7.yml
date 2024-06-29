@@ -6,5 +6,5 @@ projects:
     source: 'git://git.lttng.org/lttng-ust.git'
     checkout: stable-2.7
   lttng-modules:
-    source: 'git://git.lttng.org/lttng-modules.git'
+    source: 'git://github.com/adamweingram/lttng-modules.git'
     checkout: stable-2.7
