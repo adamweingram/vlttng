@@ -1,4 +1,4 @@
 projects:
   lttng-modules:
-    source: 'git://github.com/adamweingram/lttng-modules.git'
+    source: 'https://github.com/adamweingram/lttng-modules.git'
     checkout: stable-2.6

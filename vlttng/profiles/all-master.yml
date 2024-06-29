@@ -21,7 +21,7 @@ projects:
     source: 'https://github.com/lttng/lttng-analyses.git'
     checkout: master
   lttng-modules:
-    source: 'git://github.com/adamweingram/lttng-modules.git'
+    source: 'https://github.com/adamweingram/lttng-modules.git'
   lttng-tools:
     source: 'git://git.lttng.org/lttng-tools.git'
     configure: --enable-python-bindings

@@ -128,7 +128,7 @@ projects:
     source: 'http://lttng.org/files/lttng-ust/lttng-ust-2.11.0.tar.bz2'
     configure: --enable-python-agent
   lttng-modules:
-    source: 'git://github.com/adamweingram/lttng-modules.git'
+    source: 'https://github.com/adamweingram/lttng-modules.git'
     checkout: stable-2.11
   urcu:
     source: 'git://git.liburcu.org/userspace-rcu.git'
@@ -230,7 +230,7 @@ projects:
     source: 'http://lttng.org/files/lttng-ust/lttng-ust-2.11.0.tar.bz2'
     configure: --enable-python-agent --enable-java-agent-jul
   lttng-modules:
-    source: 'git://github.com/adamweingram/lttng-modules.git'
+    source: 'https://github.com/adamweingram/lttng-modules.git'
     checkout: stable-2.11
   urcu:
     source: 'git://git.liburcu.org/userspace-rcu.git'
